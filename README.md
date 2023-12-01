@@ -1,5 +1,4 @@
 # Web-Dev
 <html>
-  so nice to see y'all today. 
-  Looking forward to meeting y'all. Good luck to y'all.
+ Hello guys this is my first website. I am trying out git now!!!!!!!!
 </html>
